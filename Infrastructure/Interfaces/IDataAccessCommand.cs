@@ -1,4 +1,6 @@
-﻿namespace Jaroszek.ProofOfConcept.Infrastructure.Interfaces
+﻿using Jaroszek.ProofOfConcept.Infrastructure.Models;
+
+namespace Jaroszek.ProofOfConcept.Infrastructure.Interfaces
 {
     public interface IDataAccessCommand
     {
