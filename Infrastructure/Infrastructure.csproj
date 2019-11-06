@@ -5,9 +5,4 @@
     <RootNamespace>Jaroszek.ProofOfConcept.Infrastructure</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>
